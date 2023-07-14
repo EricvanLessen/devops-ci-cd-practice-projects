@@ -1,1 +1,0 @@
-AWS DevOps CI/CD - Code Pipeline, Elastic Beanstalk and Mocha, Node.js
