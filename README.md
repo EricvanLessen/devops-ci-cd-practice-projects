@@ -28,7 +28,7 @@ Scalability is the ability of a system to increase AND decrease size based on de
 
 # AWS DevOps CI/CD - Code Pipeline, Elastic Beanstalk and Mocha, Node.js
 
-(AWS Code pipeline)[aws-code-pipeline.png]
+(AWS Code pipeline)[./aws-code-pipeline.png]
 
 The pipeline pulls the source code from the git repository. Then it tests and builds the application. Then the pipeline deploys the application to the production environment. 
 
