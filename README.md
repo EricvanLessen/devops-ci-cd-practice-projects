@@ -26,10 +26,3 @@ What describes AWS EC2: A virtual computer used primarily for its processing pow
 A VPC can be described as your own “private section” of AWS: True.
 Scalability is the ability of a system to increase AND decrease size based on demand: False.
 
-# AWS DevOps CI/CD - Code Pipeline, Elastic Beanstalk and Mocha, Node.js
-
-(AWS Code pipeline)[./aws-code-pipeline.png]
-
-The pipeline pulls the source code from the git repository. Then it tests and builds the application. Then the pipeline deploys the application to the production environment. 
-
-For this course, set up an AWS account and create a Beanstalk webapplication.
