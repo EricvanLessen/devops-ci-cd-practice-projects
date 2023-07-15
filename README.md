@@ -26,4 +26,4 @@ What describes AWS EC2: A virtual computer used primarily for its processing pow
 A VPC can be described as your own “private section” of AWS: True.
 Scalability is the ability of a system to increase AND decrease size based on demand: False.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![pipeline](https://github.com/EricvanLessen/devops-ci-cd-practice-projects/blob/main/aws-code-pipeline.png?raw=true)
